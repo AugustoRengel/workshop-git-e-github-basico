@@ -1,7 +1,7 @@
 # workshop-git-e-github-basico
 
 ## Lista de presença:
-- [ ] Augusto
+- [ x ] Augusto
 - [ ] Mauro
 - [ ] Fernanda
 - [ ] Henrique
