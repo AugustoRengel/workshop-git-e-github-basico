@@ -1,14 +1,14 @@
 # workshop-git-e-github-basico
 
 ## Lista de presença:
-- [ x ] Augusto
+- [x] Augusto
 - [ ] Mauro
 - [ ] Fernanda
 - [ ] Henrique
 - [ ] Luis
 - [ ] Yasmin
 - [ ] Ghal
-- [ ] Paloma
+- [X] Paloma
 - [ ] Gabriella
 - [ ] Thaís
 
